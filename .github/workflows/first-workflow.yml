@@ -25,4 +25,4 @@ jobs:
       - name: Final Step
         run: Write Output "Windows String"
       - name: Error Step
-        run: doesnotexistsss
+        run: doesnotexistssss
